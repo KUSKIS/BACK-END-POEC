@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.groupe3.fakeslack.FakeslackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.431 s - in com.groupe3.fakeslack.FakeslackApplicationTests
